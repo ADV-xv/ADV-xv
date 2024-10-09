@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADV-xv
 - 👀 I’m interested in ethical hacking and seurity and main in robotic prgramming
-- 🌱 I’m currently learning python in highschool
+- 🌱 Im currently undergoing on BTECH course from Federal Institute of Science and Technology
 - 💞️ I’m looking to collaborate on hacking so that i can learn
 - 📫 How to reach me on my instagram @lxstinmxsc
 
